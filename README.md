@@ -1,4 +1,4 @@
-# RockPaperScissors Java Game Fiest Demo
+# RockPaperScissors Java Game First Demo
 // This is My first Git Repository.
 // Auther- Om Raut
 
